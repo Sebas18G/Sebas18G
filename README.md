@@ -1,16 +1,15 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hola!+Soy+Jhoan+Sebastian+Sanchez;Bienvenido+a+mi+perfil!" alt="Title"></img></div>
 
 # Hola, soy Jhoan Sebastian Sanchez (🤖⚙️🔌)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jhoansanchez)
-<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Tecnólogo+en+Automatización+Industrial;Estudiante+de+Ingeniería+en+Robótica+y+Automatización;Apasionado+por+la+industria+y+la+tecnología)](https://git.io/typing-svg)
--->
+
 🔧 Soy tecnólogo en automatización industrial y estudiante de último semestre de ingeniería en robótica y automatización. Me apasiona el diseño, la electrónica y el desarrollo de soluciones técnicas innovadoras. He trabajado como técnico electromecánico y auxiliar de laboratorio, con enfoque en mantenimiento, diseño CAD, programación de PLCs y desarrollo de proyectos de automatización.
 
-<!-- markdownlint-disable MD033 -->
+<!--
 <a href="https://www.linkedin.com/in/jhoan-sebastian-sanchez-montealegre-a726651bb" target="_blank">
   <img src="https://api.daily.dev/devcards/5a94b097814e4d6499823ad6d1ecf835.png?r=duu" width="250" align="right" alt="Jhoan Sebastian Sanchez"/>
 </a>
-<!-- markdownlint-enable MD033 -->
+-->
 
 - 🤖 Participante activo en ferias y semilleros de ingeniería en automatización y robótica.
 - 🛠 Experiencia técnica en empresas del sector industrial como AVESCO, P&R Neumáticas y Col Cerámica.
