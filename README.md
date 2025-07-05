@@ -13,7 +13,6 @@
 -->
 
 - 🤖 Active participant in engineering fairs and robotics research groups.
-- 🏭 Technical experience in companies such as AVESCO, P&R Neumáticas, and Col Cerámica.
 - 🔩 Specialized in pneumatics, electro-pneumatics, and control system design.
 - 🏆 Recognized for outstanding projects such as digital twins and scaled robotic arms.
 - 🧠 Recently working on Python + Django-based automation platforms.
